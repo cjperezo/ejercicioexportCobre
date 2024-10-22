@@ -36,10 +36,17 @@ public class Prersentacion {
                         datosNombre = nombreCliente.split(" ");
                     }while(datosNombre.length != 3);
 
+                    exportacion = new ExportCobre(numExportacion, paisDestino,nombreCliente);
+
                     System.out.println("Información Ingresada Correctamente");
+                    System.out.println("Numero de Exportanción: "+ exportacion.getNumExportacion());
+                    System.out.println("Pais de Destino: "+ exportacion.getPaisDestino());
+                    System.out.println("Nombre del Cliente: "+ exportacion.getNombreCliente());
 
-                    exportacion = new ExportCobre(numExportacion,paisDestino,nombreCliente);
-
+                    for(int i=0; i<exportacion.getTonExportadas().length; i++) {
+                        System.out.println("Las toneladas exportadas del mes " + (i + 1) +
+                                " son en total: " + exportacion.getTonExportadas()[i] + "Tn");
+                    }
                     break;
 
                 case 2:
