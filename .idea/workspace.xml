@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76126c80-e4ce-41a4-9858-eb449aae664a" name="Changes" comment="Se actualiza ejercicio ExportCobre">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaz/Prersentacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaz/Prersentacion.java" afterDir="false" />
-    </list>
+    <list default="true" id="76126c80-e4ce-41a4-9858-eb449aae664a" name="Changes" comment="Se actualiza ejercicio ExportCobre" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729537598386</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Se actualiza ejercicio ExportCobre">
+      <option name="closed" value="true" />
+      <created>1729611537507</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729611537507</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
